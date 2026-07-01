@@ -216,11 +216,11 @@ The application returns meaningful HTTP responses.
 
 - ✅ Logging Middleware
 
-<img width="818" height="245" alt="Screenshot 2026-07-01 131127" src="https://github.com/user-attachments/assets/6061cd28-01ba-4ea0-aebe-c2aa7ddf192d" />
+<img width="818" height="245" alt="Screenshot 2026-07-01 131127" src="https://github.com/user-attachments/assets/12dff8aa-c9a9-4b0d-b3d4-c6775cfd85b6" />
 
 - ✅ Pagination for GET `/quotes`
 
-<img width="1090" height="1025" alt="Screenshot 2026-07-01 130601" src="https://github.com/user-attachments/assets/7ef09f14-6cc7-4acd-a277-080fc7cc50af" />
+<img width="1090" height="1025" alt="Screenshot 2026-07-01 130601" src="https://github.com/user-attachments/assets/1e14388a-db98-4bcf-bdd9-375e5f91c4e9" />
 
 Example:
 
@@ -236,31 +236,31 @@ The repository includes screenshots demonstrating:
 
 - Create Quote API
 
-<img width="1092" height="1022" alt="Screenshot 2026-07-01 124213" src="https://github.com/user-attachments/assets/59afac41-61f3-4d8f-af1f-5794a704e534" />
+<img width="1092" height="1022" alt="Screenshot 2026-07-01 124213" src="https://github.com/user-attachments/assets/99cc1162-b8c8-4127-8b32-b1525c25691c" />
 
 - Get All Quotes API
 
-<img width="1100" height="1056" alt="Screenshot 2026-07-01 124310" src="https://github.com/user-attachments/assets/fad1b0bb-e4a7-4253-a030-6fc55b66b805" />
+<img width="1100" height="1056" alt="Screenshot 2026-07-01 124310" src="https://github.com/user-attachments/assets/351fe0ea-75e0-4c9d-ac2c-9d634a3a625c" />
 
 - Get Quote by ID API
 
-<img width="1102" height="760" alt="Screenshot 2026-07-01 124342" src="https://github.com/user-attachments/assets/a11b44a7-8b81-4f99-8d4e-2e6de536dba3" />
+<img width="1102" height="760" alt="Screenshot 2026-07-01 124342" src="https://github.com/user-attachments/assets/f2a83b3b-dbb8-4149-8c43-752c57e7362d" />
 
 - Analyze Quote API
 
-<img width="1092" height="877" alt="Screenshot 2026-07-01 124603" src="https://github.com/user-attachments/assets/cca54673-c72d-4d25-92a5-9c5df27f8a45" />
+<img width="1092" height="877" alt="Screenshot 2026-07-01 124603" src="https://github.com/user-attachments/assets/35062d44-1cd2-4bd3-b4b2-cf84b520805f" />
 
 - Update Status API
 
-<img width="1087" height="762" alt="Screenshot 2026-07-01 124708" src="https://github.com/user-attachments/assets/c259eda4-46a0-4362-8f9b-92d6a6eb23c3" />
+<img width="1087" height="762" alt="Screenshot 2026-07-01 124708" src="https://github.com/user-attachments/assets/e91f95a9-e998-41e9-a732-64320be32983" />
 
 - Validation Errors
 
-<img width="1096" height="617" alt="Screenshot 2026-07-01 125300" src="https://github.com/user-attachments/assets/8fe1cd37-d79a-4e3e-8a9e-7829d3ac8b6a" />
+<img width="1096" height="617" alt="Screenshot 2026-07-01 125300" src="https://github.com/user-attachments/assets/002ac37a-bef2-488b-856e-49b57eac2723" />
 
 - Pagination
 
-<img width="1090" height="1025" alt="Screenshot 2026-07-01 130601" src="https://github.com/user-attachments/assets/d7f3cc7b-645a-490c-ba17-6bc1a539921c" />
+<img width="1090" height="1025" alt="Screenshot 2026-07-01 130601" src="https://github.com/user-attachments/assets/f9b710cc-bb64-4356-816f-4f362eb48b81" />
 
 ---
 
